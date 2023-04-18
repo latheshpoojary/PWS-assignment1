@@ -93,7 +93,7 @@ h1
     display: flex;
     
     justify-content: space-around;
-    /* gap: 60px; */
+    gap: 60px;
     background-color:rgba(115, 116, 109, 0.616);
     background-image: url("./image/background_image.jpeg");
     background-repeat: no-repeat;
